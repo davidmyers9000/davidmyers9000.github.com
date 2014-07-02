@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            David Myers
-tagline:          blog site
+tagline:          blog 
 url:              http://davidmyers9000.github.io
 paginate:         1
 baseurl:          /
