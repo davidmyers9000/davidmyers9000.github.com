@@ -14,6 +14,7 @@ _site
 *.zip
 *.vi
 *~
+*.psd
 
 # OS or Editor folders
 .DS_Store
