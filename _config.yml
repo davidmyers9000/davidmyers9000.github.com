@@ -16,10 +16,14 @@ author:
   url:            http://david-myers.com
   email:          davidmyers9000@gmail.com
 
+categories_path:  /categories
+
 # Custom vars
 version:          1.0.0
 github:
   repo:           https://github.com/davidmyers9000/davidmyers9000.github.com
   resume:         http://resume.github.io/?davidmyers9000
+  profile:        https://github.com/davidmyers9000
 disqus:           
   name:           dmyersblog
+linkedin:         https://www.linkedin.com/in/dmyers2
