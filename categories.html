@@ -6,7 +6,7 @@ nav: Categories
 
 {% for category in site.categories %} 
   <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" | capitalize }}</h2>
-  <ul class="categories_list">
+  <ul class="related-posts">
     {% assign pages_list = category[1] %}  
     {% include pages_list %}
   </ul>
