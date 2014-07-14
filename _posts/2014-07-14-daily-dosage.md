@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily Dosage Vol. 1"
+title: "Daily Dosage - Herman Damar"
 description: ""
 category: Daily Dosage
 tags: []
