@@ -7,7 +7,7 @@ tags: []
 comments: false
 ---
 
-Shot in a village outside of Jakarta, Indonesia that Damar descirbed as "unspoiled by technology." He also made sure to brag on the wonderful, welcoming people he’s met, calling them “friendly,” “humble,” and always “very happy when I take a shot.”
+Shot in a village outside of Jakarta, Indonesia that [Damar](http://www.chapter3d.com/) described as "unspoiled by technology." He also made sure to brag on the wonderful, welcoming people he’s met, calling them “friendly,” “humble,” and always “very happy when I take a shot.”
 
 ![Carefree World of Children](/images/village.jpg "Village")
 ![Carefree World of Children](/images/village1.jpg "Village")
