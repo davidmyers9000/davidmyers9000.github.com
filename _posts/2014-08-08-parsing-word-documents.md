@@ -6,7 +6,7 @@ category: Drexel
 tags: []
 ---
 
-Ruby
+Resources
 -----
 [Ydocx](https://github.com/zdavatz/ydocx) - parses docx files with Ruby and output them as HTML and XML.
 
