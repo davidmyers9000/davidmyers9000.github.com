@@ -13,8 +13,6 @@ Source: [Russian Man Spends 6 Months Living In the 10th Century (52 Pics)](http:
 
 In this project, ["Alone in the Past"](http://www.ratobor.com/alone.html) Alexey lived a historically accurate life of a 10th century Russian. He was only allowed to use the tools, materials, and knowledge available to people in that time period. He was also banned from communicating with the outside world with the exception of once per month in which he was examined by doctors who monitored his the state of health. Despite these tough conditions, and seclusion from the outside world, he was tasked to survive 6 months. 
 
-I can't imagine how cold and difficult it must have been for him. And not only physically harsh conditions, but psychologcial challenge. It couldn't have been easy for him to get rest with the thoughts of tomorrow's work, the sounds and smells of animals, and the cold of winter biting him. It really makes me stop and appreciate the comforts of modern life.
-
 ![Alexey Ovcharenko](/images/roughing-it/1.jpg "Alone in the Past")
 ![Alexey Ovcharenko](/images/roughing-it/2.jpg "Alone in the Past")
 ![Alexey Ovcharenko](/images/roughing-it/3.jpg "Alone in the Past")
