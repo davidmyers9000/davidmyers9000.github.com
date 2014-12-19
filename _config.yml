@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:         true
 
 # Permalinks
 permalink:        pretty
@@ -18,7 +18,7 @@ author:
 
 categories_path:  /categories
 
-description: "Hi, my name I am a digital media specialist currently working at <a href='http://drexel.edu'>Drexel University</a>"
+description: Responsible for producing digital media at <a href='http://drexel.edu'>Drexel Biomed</a>
 
 # Custom vars
 version:          1.0.0

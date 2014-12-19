@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Daily Dosage - Alexey Ovcharenko"
+title: "Alexey Ovcharenko - Survivorman Photos"
 description: ""
-category: Daily Dosage
+category: Visuals
 tags: []
 comments: false
 ---
