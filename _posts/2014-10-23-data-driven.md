@@ -5,7 +5,7 @@ description: ""
 category: Drexel
 tags: []
 ---
-
+- [#Instagram purges fake accounts 2014](http://64px.com/instagram/)
 - [Quaterbacks Consecutive Games By Team](http://www.nytimes.com/newsgraphics/2013/09/28/eli-manning-milestone/)
 - [Les Miserables - Character Co-appearances](http://bost.ocks.org/mike/miserables/)
 - [Icicle Visual](http://bl.ocks.org/mbostock/1005873)
