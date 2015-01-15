@@ -10,10 +10,12 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
+      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a> -->
 
-      {% assign categories_list = site.categories %}
-      {% include categories_list %}
+      <a class="sidebar-nav-item{% if page.title == 'Categories' %} active{% endif %}" href="/categories">Categories</a>
+
+      <!-- {% assign categories_list = site.categories %}
+      {% include categories_list %} -->
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -32,9 +34,8 @@
       {% endfor %}
 
       <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
-      <a class="sidebar-nav-item" href="{{ site.linkedin }}">LinkedIn</a>
-      <a class="sidebar-nav-item" href="{{ site.github.profile }}">GitHub</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+
+      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>
     
     <p>
