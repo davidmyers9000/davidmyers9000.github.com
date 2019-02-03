@@ -7,12 +7,12 @@ permalink:        pretty
 # Setup
 title:            David R. Myers
 tagline:          blog
-url:              http://david-myers.com
+url:              https://david-myers.com/
 paginate:         1
 baseurl:          /
 author:
   name:           David Myers
-  url:            http://david-myers.com
+  url:            https://david-myers.com/
   email:          davidmyers9000@gmail.com
 
 categories_path:  /portfolio
