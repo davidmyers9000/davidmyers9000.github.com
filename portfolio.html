@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Categories
-nav: Categories
+title: Portfolio
+nav: Portfolio
+description: Please, enjoy responsibly
+hidden: "false"
 ---
 
-{% for category in site.categories %} 
+{% for category in site.categories %}
   <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" | capitalize }}</h2>
   <ul class="related-posts">
-    {% assign pages_list = category[1] %}  
+    {% assign pages_list = category[1] %}
     {% include pages_list %}
   </ul>
 {% endfor %}

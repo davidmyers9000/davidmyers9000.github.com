@@ -1,5 +1,4 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:         true
 
 # Permalinks
@@ -7,7 +6,7 @@ permalink:        pretty
 
 # Setup
 title:            David Myers
-tagline:          blog 
+tagline:          blog
 url:              http://david-myers.com
 paginate:         1
 baseurl:          /
@@ -16,16 +15,19 @@ author:
   url:            http://david-myers.com
   email:          davidmyers9000@gmail.com
 
-categories_path:  /categories
+categories_path:  /portfolio
 
-description: Web and multimedia developer at Drexel BIOMED
+description: Web / Multimedia / iOS <br>Design <br>Development
+gems:
+  - jekyll-paginate
+  - jekyll-gist
 
 # Custom vars
-version:          1.0.0
+version:          1.0.1
 github:
   repo:           https://github.com/davidmyers9000/davidmyers9000.github.com
   resume:         http://resume.github.io/?davidmyers9000
   profile:        https://github.com/davidmyers9000
-disqus:           
+disqus:
   name:           dmyersblog
-linkedin:         https://www.linkedin.com/in/dmyers2
+linkedin:         https://www.linkedin.com/in/dmyers9000
