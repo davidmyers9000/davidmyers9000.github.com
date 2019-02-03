@@ -5,7 +5,7 @@ highlighter:         true
 permalink:        pretty
 
 # Setup
-title:            David Myers
+title:            David R. Myers
 tagline:          blog
 url:              http://david-myers.com
 paginate:         1
