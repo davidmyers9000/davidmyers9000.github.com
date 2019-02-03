@@ -9,7 +9,7 @@ title:            David R. Myers
 tagline:          blog
 url:              https://david-myers.com/
 paginate:         1
-baseurl:          /
+baseurl:          /portfolio/
 author:
   name:           David Myers
   url:            https://david-myers.com/
